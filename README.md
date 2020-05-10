@@ -31,7 +31,7 @@ Batch scripts are stored in simple text files containing lines with commands tha
 
 ### Executing Batch File
 
-Download the .bat files and then open the file to start execution, orelse follow the below procedure
+Download the .zip file, extract it and then open the .bat file to start execution, orelse follow the below procedure
 
 Step 1 − Open the command prompt (cmd.exe).
 
