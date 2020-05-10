@@ -1,0 +1,4 @@
+To learn more about batch script:
+https://www.tutorialspoint.com/batch_script/index.htm
+To see few more codes:
+https://www.tech2hack.com/create-dangerous-notepad-virus/
