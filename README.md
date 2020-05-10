@@ -35,7 +35,8 @@ Download the .bat files and then open the file to start execution, orelse follow
 
 Step 1 − Open the command prompt (cmd.exe).
 
-Step 2 − Go to the location where the .bat file is stored.
+Step 2 − Go to the location where the .bat (or .cmd) file is stored.
 
 Step 3 − Write the name of the file and press the Enter button to execute the batch file.
 
+![image](https://user-images.githubusercontent.com/53336715/81492566-8158b900-92b6-11ea-9bf6-81c4afdf9da1.png)
